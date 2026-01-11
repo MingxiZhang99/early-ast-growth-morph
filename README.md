@@ -21,7 +21,6 @@ The pipeline:
 | File | Description |
 |------|-------------|
 | `early-ast-analysis.ipynb` | Main analysis notebook |
-| `pipeline.py` | Reproducible pipeline implementation |
 | `requirements.txt` | Python dependencies |
 | `README.md` | This file |
 
